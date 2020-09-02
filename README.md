@@ -1,2 +1,2 @@
 # advent-of-code-2019
-Created with CodeSandbox
+Solving some of the Advent of Code 2019 exercises as JS practice
